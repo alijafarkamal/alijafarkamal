@@ -1,20 +1,12 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ali Jafar</h1>
-<h3 align="center">A passionate data analyst and programmer</h3>
+<h3 align="center">🚀 MERN Stack Developer | Data Analyst | Automation & AI Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijafarkamal&label=Profile%20views&color=0e75b6&style=flat" alt="alijafarkamal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alijafarkamal" alt="alijafarkamal" /></a> </p>
 
-- 🔭 I’m currently working on [Data analysis](https://github.com/alijafarkamal/Data_analysis)
-
-- 🌱 I’m currently learning **data mining and machine learning.**
-
-- 👯 I’m looking to collaborate on [Data structures in JavaScript](https://github.com/alijafarkamal/Data_Structures_in_JS)
-
 - 👨‍💻 All of my projects are available at [https://github.com/alijafarkamal](https://github.com/alijafarkamal)
-
-- 💬 Ask me about **Data analysis, R, SQL, sfml, OpenGl, chess, Javascript, Python, node.js etc.**
 
 - 📫 How to reach me **ali.jafar.fast@gmail.com**
 
