@@ -3,9 +3,8 @@
 # 👨‍💻 About Me:
 🎓 I'm currently a Computer Science student with broad interests in technology<br>
 💻 I have been programming for several years and love exploring new technologies<br>
-🤖 Currently focused on Blockchain, Web Development, and AI Applications Development<br>
-❣️ I like to explore new and trending technologies and play chess<br>
-🖥️ My Favorite Fields: Blockchain, Web Development, AI/ML, and Full-Stack Applications
+🤖 Currently focused on research<br>
+❣️ I like to explore new and trending technologies and play chess<br
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali_jafar_099/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-j-5152a8300/)
