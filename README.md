@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=alijafarkamal&label=Profile%20views&color=0e75b6&style=flat" alt="alijafarkamal" />
 
-# 🧠 Early-Career AI Researcher
-I’m an early-career AI researcher and Computer Science student focused on building practical, research-driven intelligent systems. My current trajectory centers on language, multimodal reasoning, speech technologies, and agentic AI workflows.
+# 🧠 About Me
+I’m a Computer Science student focused on building practical, research-driven intelligent systems. My current trajectory centers on language, multimodal reasoning, speech technologies, and agentic AI workflows.
 
 ## 🔬 Research Focus
 - Natural Language Processing (NLP)
@@ -11,7 +11,7 @@ I’m an early-career AI researcher and Computer Science student focused on buil
 - Retrieval-Augmented Generation (RAG)
 - Agents and Orchestration Systems
 
-## 🧰 AI Research Stack
+## 🧰 Research Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
