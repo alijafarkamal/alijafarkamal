@@ -1,9 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=alijafarkamal&label=Profile%20views&color=0e75b6&style=flat" alt="alijafarkamal" />
 
-# 🧠 About Me
+# About Me
 I’m a Computer Science student focused on building practical, research-driven intelligent systems. My current trajectory centers on language, multimodal reasoning, speech technologies, and agentic AI workflows.
 
-## 🔬 Research Focus
+## Research Focus
 - Natural Language Processing (NLP)
 - Multimodal AI
 - Speech Processing (ASR/TTS)
@@ -11,7 +11,7 @@ I’m a Computer Science student focused on building practical, research-driven 
 - Retrieval-Augmented Generation (RAG)
 - Agents and Orchestration Systems
 
-## 🧰 Research Stack
+## Research Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
@@ -23,6 +23,6 @@ I’m a Computer Science student focused on building practical, research-driven 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4A5568?style=flat)
 
-## 🌐 Socials
+## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali_jafar_099/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-j-5152a8300/)
